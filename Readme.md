@@ -5,11 +5,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://umit8098.github.io/Project_Javascript_Weather_App/">
+    <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
       Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/Project_Javascript_Weather_App/">
+    <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
       Project
     </a>
  
@@ -51,7 +51,7 @@ To clone and run this application, you'll need [Git](https://github.com/Umit8098
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/Project_Javascript_Weather_App.git
+$ git clone https://github.com/Umit8098/Project-js-checkout-shopping_cart.git
 ```
 
 
