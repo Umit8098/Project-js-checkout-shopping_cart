@@ -1,7 +1,19 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Project Javascript Shopping Cart</h1>
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-Vanilla-F7DF1E?logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/HTML5-Markup-E34F26?logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-Styling-1572B6?logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/DOM-Manipulation-success" />
+  <img src="https://img.shields.io/badge/Responsive-Layout-blue" />
+  <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
+</p>
 
+<h1 align="center">Javascript Shopping Cart</h1>
+
+<p align="center">
+A dynamic shopping cart application built with vanilla JavaScript, focusing on DOM manipulation and cart logic.
+</p>
 
 <div align="center">
   <h3>
@@ -16,50 +28,97 @@
   </h3>
 </div>
 
+
+![Shopping Cart App](./checkout_app.gif)
+
 <!-- TABLE OF CONTENTS -->
 
 ## Navigation
 
-- [Overview](#overview)
-- [Built With](#built-with)
-- [How To Use](#how-to-use)
-- [About This Project](#about-this-project)
-- [Contact](#contact)
+- [✨ Overview](#-overview)
+- [📖 Description](#-description)
+- [🚀 Features](#-features)
+- [🗂️ Project Skeleton](#-project-skeleton)
+- [🛠️ Built With](#-built-with)
+- [⚡ How To Use](#-how-to-use)
+- [📌 About This Project](#-about-this-project)
+- [📬 Contact](#-contact)
 
 <!-- OVERVIEW -->
 
-## Overview
+## ✨ Overview
 
-![screenshot](checkout_app.gif)
+This project is a **shopping cart (checkout) application** built using **vanilla JavaScript**, without any frameworks or libraries.
 
----
+It demonstrates how to manage cart state, update the UI dynamically, and handle user interactions such as adding, removing, and updating product quantities.
 
-## Built With
+## 📖 Description
 
-<!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
+The JavaScript Shopping Cart allows users to:
+- Add products to the cart
+- Increase or decrease item quantities
+- Remove items from the cart
+- See real-time updates of subtotal and total prices
 
-- JavaScript
-- HTML
-- CSS
+The project focuses on **DOM manipulation**, **event handling**, and **clean JavaScript logic**, making it a solid example of core frontend fundamentals.
 
-## How To Use
 
-<!-- This is an example, please update according to your application -->
+## 🚀 Features
 
-To clone and run this application, you'll need [Git](https://github.com/Umit8098/Project_Javascript_Weather_App)
+- ➕ Add products to the shopping cart
+- ➖ Increase / decrease product quantity
+- ❌ Remove items from the cart
+- 💰 Real-time price calculation
+- 🔄 Dynamic DOM updates
+- 📱 Responsive layout
+- 🧠 Clean and readable vanilla JavaScript logic
+
+
+## 🗂️ Project Skeleton
+
+```
+src/
+ │
+ |-readme.md   
+ │
+ ├─ index.html
+ │   
+ ├─ css/
+ │   └─ style.css
+ │   
+ ├─ app.js
+ │   
+ ├─ img/ │   
+```
+
+## 🛠️ Built With
+
+- [JavaScript (ES6)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+- [HTML5](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS3](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [GitHub Pages](https://pages.github.com/)
+
+## ⚡ How To Use
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/Umit8098/Project-js-checkout-shopping_cart.git
+git clone https://github.com/Umit8098/Project-js-checkout-shopping_cart.git
+
+# Open index.html in your browser
 ```
 
+## 📌 About This Project
+This project was created to practice and demonstrate:
+- Core JavaScript fundamentals
+- DOM manipulation and event handling
+- Shopping cart logic (state management)
+- Dynamic UI updates without frameworks
+- Building interactive frontend applications using pure JavaScript
 
-## About This Project
-- Shopping Cart;
-- HTML, CSS, Javascript kullanılarak oluşturulan bir alışveriş sepeti.
+It serves as a strong foundation before moving on to frameworks like React.
 
 
-## Contact
+## 📬 Contact
 
 <!-- - Website [your-website.com](https://{your-web-site-link}) -->
 - GitHub [@Umit8098](https://github.com/Umit8098)
