@@ -6,11 +6,11 @@
 <div align="center">
   <h3>
     <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
-      Demo
+      🖥️ Live Demo
     </a>
      | 
-    <a href="https://umit8098.github.io/Project-js-checkout-shopping_cart/">
-      Project
+    <a href="https://github.com/Umit8098/Project-js-checkout-shopping_cart.git">
+      📂 Repository
     </a>
  
   </h3>
@@ -18,9 +18,8 @@
 
 <!-- TABLE OF CONTENTS -->
 
-## Table of Contents
+## Navigation
 
-- [Table of Contents](#table-of-contents)
 - [Overview](#overview)
 - [Built With](#built-with)
 - [How To Use](#how-to-use)
@@ -30,7 +29,7 @@
 <!-- OVERVIEW -->
 
 ## Overview
-- Weather_App
+
 ![screenshot](checkout_app.gif)
 
 ---
