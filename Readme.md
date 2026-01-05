@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/Deployment-GitHub%20Pages-222222?logo=githubpages&logoColor=white" />
 </p>
 
-<h1 align="center">Shopping Cart - Javascript</h1>
+<h1 align="center">Checkout/Shopping Cart - Javascript</h1>
 
 <p align="center">
 A dynamic shopping cart application built with vanilla JavaScript, focusing on DOM manipulation and cart logic.
